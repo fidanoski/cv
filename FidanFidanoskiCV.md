@@ -13,7 +13,7 @@ Senior Software Engineer and Solution Designer with over 10 years of experience 
 
 ### **PayPal**
 **Senior Software Engineer** | *May 2023 – Present*
-- Architect and develop large-scale payment and payout processing systems within a regulated fintech environment.
+- Develop large-scale payment and payout processing systems within a regulated fintech environment.
 - Design and maintain AWS-based infrastructure, leveraging ECS, Lambda, API Gateway, and CloudFront with mTLS-secured communications.
 - Manage secure cloud environments using IAM, KMS, and Parameter Store, ensuring compliance with fintech regulations.
 - Implement robust networking and traffic management via VPC, Route 53, and Load Balancing (ALB/NLB).
