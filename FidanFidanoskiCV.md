@@ -32,6 +32,8 @@ Senior Software Engineer and Solution Designer with over 10 years of experience 
 - Built and maintained an internal reusable UI component library, optimizing data-heavy interfaces for candidate management.
 - **Tech:** React, TypeScript, Styled Components.
 
+<div style="page-break-before: always;"></div>
+
 ### **Digital MediaLab**
 **Java / NodeJS Developer** | *Jun 2015 – Apr 2017*
 - Developed backend middleware for Telenor’s mobile banking applications, ensuring high data consistency across platforms.
